@@ -10,7 +10,6 @@ Enderae - Pokemon Showdown, Building
 Ender_Stone - HIDDEN UNTIL FURTHER NOTICE
 
 - 🌱 I'm (Endistic) currently learning Java and C#.
-- 
 - 📫 You can reach out to us on Discord or E-Mail:
 
 E-Mail: enderianstudios@gmail.com
