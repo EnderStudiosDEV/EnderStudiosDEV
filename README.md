@@ -8,16 +8,12 @@ for FREE!
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to us on Discord or E-Mail:
 
-E-Mail:
-
-Our main account: enderianstudios@gmail.com
-
-Our personal accounts:
-[We will be disclosing these later! For now, please contact us on our main account,
-or on Discord!]
+E-Mail: enderianstudios@gmail.com
 
 Our discords:
-
+Endistic - Endistic#3726
+Enderae - NO DISCORD YET, PLEASE CONTACT ON enderianstudios@gmail.com
+Ender_Stone - HIDDEN UNTIL FURTHER NOTICE
 
 
 
