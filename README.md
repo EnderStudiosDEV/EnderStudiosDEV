@@ -7,7 +7,7 @@ for FREE!
 
 Endistic - Programming, Cookie Run: Kingdom
 Enderae - Pokemon Showdown, Building
-Ender_Stone - HIDDEN UNTIL FURTHER NOTICE
+Ender_Stone -Building
 
 - 🌱 I'm (Endistic) currently learning Java and C#.
 - 📫 You can reach out to us on Discord or E-Mail:
@@ -15,9 +15,9 @@ Ender_Stone - HIDDEN UNTIL FURTHER NOTICE
 E-Mail: enderianstudios@gmail.com
 
 Our discords:
-Endistic - Endistic#3726
-Enderae - NO DISCORD YET, PLEASE CONTACT ON enderianstudios@gmail.com
-Ender_Stone - HIDDEN UNTIL FURTHER NOTICE
+- Endistic - Endistic#3726
+- Enderae - NO DISCORD YET, PLEASE CONTACT ON enderianstudios@gmail.com
+- Ender_Stone - HIDDEN UNTIL FURTHER NOTICE
 
 
 
