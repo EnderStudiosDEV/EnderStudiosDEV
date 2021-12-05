@@ -5,9 +5,9 @@ for FREE!
 
 - 👀 We're interested in a variety of hobbies:
 
-Endistic - Programming, Cookie Run: Kingdom
+Endistic - Programming, Wynncraft
 Enderae - Pokemon Showdown, Building
-Ender_Stone -Building
+Ender_Stone -Building, various Outside-ofMC games (Cookie Clicker, BTD)
 
 - 🌱 I'm (Endistic) currently learning Java and C#.
 - 📫 You can reach out to us on Discord or E-Mail:
